@@ -1,0 +1,38 @@
+@media screen and (max-width: 1020px){
+  nav {
+    position: relative;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  .text-logo {
+    margin: 0;
+    text-align: center;
+  }
+
+  header {
+    padding-top: 50px;
+    flex-direction: column;
+  }
+  
+  .headline {
+    flex: 100%;
+    margin: 5%;
+    text-align: center;
+  }
+
+  header .img-headline {
+    flex: 100%;
+    margin: 5%;
+  }
+
+  .cards {
+    width: 100%;
+  }
+
+  .whats {
+    display: none;
+  }
+}
